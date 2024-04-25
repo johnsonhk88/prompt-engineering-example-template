@@ -1,0 +1,17 @@
+# Prompt 1 
+
+Summarize the following conversation between a service rep and a customer in a few sentences. Use only the information from the conversation.
+
+Service Rep: How may I assist you today?
+Customer: I need to change the shipping address for an order.
+Service Rep: Ok, I can help you with that if the order has not been fulfilled from our warehouse yet. But if it has already shipped, then you will need to contact the shipping provider. Do you have the order ID?
+Customer: Yes, it's 88986367.
+Service Rep: One minute please while I pull up your order information.
+Customer: No problem
+Service Rep: Ok, it looks like your order was shipped from our warehouse 2 days ago. It is now in the hands of  the shipping provider, so you will need to contact them to update your delivery details. You can track your order with the shipping provider here: https://www.shippingprovider.com
+Customer: Sigh, ok.
+Service Rep: Is there anything else I can help you with today?
+Customer: No, thanks.
+
+# Responses 
+The customer contacted the service rep to change the shipping address for an order. However, the order had already shipped from the warehouse two days prior. The service rep informed the customer they would need to contact the shipping provider directly to update the delivery details and provided a tracking link.
